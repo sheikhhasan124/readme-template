@@ -1,0 +1,16 @@
+---markdown---
+
+1-normal text and new line
+2- horizontal rule
+3- heading
+4-paragraph
+5-italic
+6- srong ba bold
+7-stick through
+8- inline code block
+9-multiple line code block
+10-list
+11- link
+12-img syntax
+13- emogi
+13- table
