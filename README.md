@@ -14,7 +14,7 @@ this is new line
 ###### HAsan
 
 
-<p> i'm hasan . i'm 24 years old . i'm a self learner , every things taht i lear by my self.<p>
+<p> i'm hasan . i'm 23 years old . i'm a self learner , every things that i learn by my self.<p>
 
 
 _this is an italic text_
